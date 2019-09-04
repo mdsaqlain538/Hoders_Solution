@@ -1,0 +1,31 @@
+
+
+.container{
+    float: left;
+}
+
+.table{
+    margin-top: 18px;
+}
+
+.td{
+    float: right;
+}
+
+.form-check{
+    float: left;
+}
+
+.top
+{
+    padding-bottom: 12px;
+}
+
+.btn {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul a{
+    text-decoration: none;
+    
+}
